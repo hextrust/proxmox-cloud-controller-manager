@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  proxmox-cloud-controller-manager:
+  - apiVersion: v2
+    appVersion: v0.1.1
+    created: "2023-07-28T02:34:37.052460245Z"
+    description: A Helm chart for Kubernetes
+    digest: 120e6a26aa66b2c09d468fda84e24de8a37a009c43306be75a64cea122d747a3
+    home: https://github.com/sergelogvinov/proxmox-cloud-controller-manager
+    icon: https://proxmox.com/templates/yoo_nano2/favicon.ico
+    keywords:
+    - ccm
+    maintainers:
+    - name: sergelogvinov
+      url: https://github.com/sergelogvinov
+    name: proxmox-cloud-controller-manager
+    sources:
+    - https://github.com/sergelogvinov/proxmox-cloud-controller-manager
+    type: application
+    urls:
+    - https://github.com/hextrust/proxmox-cloud-controller-manager/releases/download/proxmox-cloud-controller-manager-0.1.4-test/proxmox-cloud-controller-manager-0.1.4-test.tgz
+    version: 0.1.4-test
+generated: "2023-07-28T02:34:37.052465445Z"
