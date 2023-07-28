@@ -3,6 +3,25 @@ entries:
   proxmox-cloud-controller-manager:
   - apiVersion: v2
     appVersion: v0.1.1
+    created: "2023-07-28T08:57:51.325080628Z"
+    description: A Helm chart for Kubernetes
+    digest: 4040161f9840cc8f7c5c9aaa5099a64f2e7070d57223d8d6cc8864b1098c923c
+    home: https://github.com/sergelogvinov/proxmox-cloud-controller-manager
+    icon: https://proxmox.com/templates/yoo_nano2/favicon.ico
+    keywords:
+    - ccm
+    maintainers:
+    - name: Hex Trust DevOps Team
+      url: https://github.com/orgs/hextrust/teams/hextrust-devops-leads
+    name: proxmox-cloud-controller-manager
+    sources:
+    - https://github.com/sergelogvinov/proxmox-cloud-controller-manager
+    type: application
+    urls:
+    - https://github.com/hextrust/proxmox-cloud-controller-manager/releases/download/proxmox-cloud-controller-manager-0.2.0/proxmox-cloud-controller-manager-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: v0.1.1
     created: "2023-07-28T02:34:37.052460245Z"
     description: A Helm chart for Kubernetes
     digest: 120e6a26aa66b2c09d468fda84e24de8a37a009c43306be75a64cea122d747a3
@@ -20,4 +39,4 @@ entries:
     urls:
     - https://github.com/hextrust/proxmox-cloud-controller-manager/releases/download/proxmox-cloud-controller-manager-0.1.4-test/proxmox-cloud-controller-manager-0.1.4-test.tgz
     version: 0.1.4-test
-generated: "2023-07-28T02:34:37.052465445Z"
+generated: "2023-07-28T08:57:51.325091328Z"
